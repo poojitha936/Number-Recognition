@@ -1,1 +1,2 @@
 # Number-Recognition
+A number recognition system using the MNIST dataset and a neural network is designed to identify and classify handwritten digits. The MNIST dataset consists of thousands of grayscale images of handwritten digits, and a neural network is trained on this data to learn patterns and features that differentiate between numbers. The system uses deep learning techniques to achieve high accuracy in recognizing digits, making it a valuable tool for applications like optical character recognition, digit classification, and more.
